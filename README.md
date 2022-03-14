@@ -2,4 +2,6 @@
 
 ## Advanced features
 
-Some description in here is needed
+## Local Developent
+
+1. Open index.html in your browser.
